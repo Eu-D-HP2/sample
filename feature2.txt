@@ -5,3 +5,5 @@
 
 Feautureの追加
 mergeのテスト
+branch　mainに適応したい
+どうなるかテスト　feature2
